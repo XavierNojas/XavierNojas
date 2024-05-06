@@ -1,7 +1,9 @@
 ![image](https://github.com/XavierNojas/xaviernojas/assets/77745249/069a7aa9-9698-4141-ba81-623071a06737)
 ------------------------------------------- 
 ### 💁🏻‍♂️ Socials: 
-<a href="https://instagram.com/xavier.nojas"><img src="https://img.shields.io/badge/xavier.nojas-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/xaviernojas/"><img src="https://img.shields.io/badge/xaviernojas-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.facebook.com/xavier.duane.nojas/"><img src="https://img.shields.io/badge/xavier.duane.nojas-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/xaviernojas/"><img src="https://img.shields.io/badge/xaviernojas-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="https://instagram.com/xavier.nojas"><img src="https://img.shields.io/badge/xavier.nojas-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> 
+<a href="https://www.facebook.com/xavier.duane.nojas/"><img src="https://img.shields.io/badge/xavier.duane.nojas-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <br>
 ### 📧 Write me an email:
 <a href="mailto: nojasxavier@gmail.com">
